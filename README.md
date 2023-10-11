@@ -3,15 +3,15 @@ software that upscales low-resolution images while preserving and enhancing impo
 is an innovative project that combines the power of OpenCV and deep learning to revolutionize image super-resolution, addressing the increasing demand for higher-quality images in various domains, including medical imaging, surveillance, entertainment, and more.
 
 # Key Objectives:
-<ls>
-<la>High-Definition Imaging: The primary objective of "DeepEnhance" is to use deep learning techniques to upscale low-resolution images, significantly improving image clarity, detail, and overall quality.</la>
 
-<la>Seamless Integration with OpenCV: "DeepEnhance" seamlessly integrates advanced deep learning algorithms with the OpenCV library, providing a user-friendly solution for image processing and super-resolution tasks.</la>
+High-Definition Imaging: The primary objective of "DeepEnhance" is to use deep learning techniques to upscale low-resolution images, significantly improving image clarity, detail, and overall quality.
+
+Seamless Integration with OpenCV: "DeepEnhance" seamlessly integrates advanced deep learning algorithms with the OpenCV library, providing a user-friendly solution for image processing and super-resolution tasks.
 
 Cross-Domain Applicability: The project aims to be versatile, offering super-resolution solutions for a wide range of applications, ensuring it can benefit various industries and use cases.
-</ls>
 
-Core Features:
+
+# Core Features:
 
 Deep Learning Models: "DeepEnhance" employs deep learning models, such as convolutional neural networks (CNNs) and generative adversarial networks (GANs), to predict high-resolution details from low-resolution inputs.
 
@@ -23,7 +23,8 @@ Efficient Parallelization: "DeepEnhance" takes advantage of multi-core processor
 
 User-Friendly Interface: The project includes an intuitive user interface, making it easy for developers to integrate into their existing image processing workflows.
 
-Applications:
+
+# Applications:
 
 Medical Imaging: "DeepEnhance" is valuable for enhancing the quality and detail of medical images, facilitating more accurate diagnoses and treatment planning.
 
